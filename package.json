@@ -1,0 +1,22 @@
+{
+  "name": "lessonplan",
+  "version": "0.996.0",
+  "description": "关键点验证",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderlang/lessonplan.git"
+  },
+  "author": "coderlang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderlang/lessonplan/issues"
+  },
+  "homepage": "https://github.com/coderlang/lessonplan#readme",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}

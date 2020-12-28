@@ -1,0 +1,6 @@
+.idea
+'*' bin
+bin
+node_modules
+dist
+.package.sign
